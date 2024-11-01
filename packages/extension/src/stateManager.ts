@@ -14,7 +14,7 @@ import { activate as activateNewsWidget } from '@vscode-marquee/widget-news/exte
 import { activate as activateProjectsWidget, ProjectsExtensionManager } from '@vscode-marquee/widget-projects/extension'
 import { activate as activateGitHubWidget } from '@vscode-marquee/widget-github/extension'
 import { activate as activateWeatherWidget } from '@vscode-marquee/widget-weather/extension'
-import { activate as activateTodoWidget, TodoExtensionManager } from '@vscode-marquee/widget-todo/extension'
+import { activate as activateTodoWidget, TodoExtensionManager } from '@vscode-marquee/widget-todo #271/extension'
 import { activate as activateMarkdownWidget, MarkdownExtensionManager } from '@vscode-marquee/widget-markdown/extension'
 import { activate as activateNotesWidget, NoteExtensionManager } from '@vscode-marquee/widget-notes/extension'
 import { activate as activateNPMStatsWidget } from '@vscode-marquee/widget-npm-stats/extension'
